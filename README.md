@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Android Java, Kotlin, etc**
 
-- 👨‍💻 All of my projects are available at [profile.faaris.id](profile.faaris.id)
-
 - 📝 I regularly write articles on [www.faaris.id](www.faaris.id)
 
 - 📫 How to reach me **faarismudawork@gmail.com**
