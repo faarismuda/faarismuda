@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Faaris Muda Dwi Nugraha</h1>
+<h1 align="center">Hi 👋, I'm Faaris Muda</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=faarismuda&label=Profile%20views&color=0e75b6&style=flat" alt="faarismuda" /></p>
@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning **Android Java, Kotlin, etc**
 - 📝 I regularly write articles on [www.faaris.id](www.faaris.id)
 - 📫 How to reach me **faarismudawork@gmail.com**
+- 🌏 My another page [muda.faaris.id](muda.faaris.id)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,7 +25,5 @@
 <p><a href="https://www.buymeacoffee.com/faarismuda"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="faarismuda"></a></p>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=faarismuda&show_icons=true&locale=en&layout=compact" alt="faarismuda"></p>
-
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=faarismuda&show_icons=true&locale=en" alt="faarismuda"></p>
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=faarismuda" alt="faarismuda"></p>
