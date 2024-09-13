@@ -4,7 +4,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=faarismuda&label=Profile%20views&color=0e75b6&style=flat" alt="faarismuda" /></p>
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faarismuda" alt="faarismuda" /></a></p>
 
-- 🌱 I’m currently learning **Android Java, Kotlin, etc**
+- 🌱 I’m currently learning **Data Science, System Analyst, etc**
 - 📝 I regularly write articles on [www.faaris.id](https://www.faaris.id)
 - 📫 How to reach me **faarismudawork@gmail.com**
 - 🌏 My another page [muda.faaris.id](https://muda.faaris.id)
