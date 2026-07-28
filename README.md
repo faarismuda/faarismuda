@@ -7,7 +7,7 @@
 - 🌱 I'm currently sharpening my skills in **SQL, Python for Data Analysis, and Test Automation with Selenium**
 - 📊 I enjoy turning raw data into insights and making sure software ships bug-free
 - 📝 I regularly write articles on [www.faaris.id](https://www.faaris.id)
-- 📫 How to reach me **faarismudawork@gmail.com**
+- 📫 How to reach me **work@faaris.id**
 - 🌏 My another page [muda.faaris.id](https://muda.faaris.id)
 
 <h3 align="left">Connect with me:</h3>
